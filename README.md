@@ -18,5 +18,5 @@ Key Components:
 
 This end-to-end Azure pipeline streamlines the migration of data, ensuring reliability, scalability, and security throughout the process.
 
-![Architecture of project](https://github.com/nikhilsharma1997/on_prem_migrate_azure/blob/60cad717bbaec6e8a4e271a2aa883b43d1cf9e3c/architecture.png1)
+![Architecture of project](https://github.com/nikhilsharma1997/on_prem_migrate_azure/blob/60cad717bbaec6e8a4e271a2aa883b43d1cf9e3c/architecture.png)
 
